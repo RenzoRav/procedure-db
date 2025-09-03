@@ -1,6 +1,6 @@
 # decisões de Projeto
 
-## objetivoc
+## objetivo
 criar um sistema simples de biblioteca, com controle de livros, autores, usuários e empréstimos, usando PostgreSQL e procedures
 
 ## organização do Projeto
